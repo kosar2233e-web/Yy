@@ -1,0 +1,532 @@
+EXTM3U 
+#EXTINF:-1, k
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/19432/index.m3u8
+
+#EXTINF:-1, pfl mma
+
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
+
+#EXTINF:-1, sky sports
+
+
+http://31.43.191.125:8080/live/restream/restream/135345.ts
+
+
+#EXTINF:-1, hurt
+
+https://b2.unityplus.site/file/unitypluscloud/movies/The.Hurt.Locker.2008.BluRay.5.1CH.1080P.mp4?Authorization=3_20261004104551_a84cf7ab38011c3bfcad969a_88b9c8488b68d289415b6b444901c86df8b9c08a_005_20261007104551_0007_dnld
+
+
+
+
+
+
+#EXTINF:-1, behind
+
+https://b2.unityplus.site/file/unitypluscloud/movies/Behind.Enemy.Lines.2001.Bluray.1080p.(CM).mp4?Authorization=3_20261004104551_a84cf7ab38011c3bfcad969a_88b9c8488b68d289415b6b444901c86df8b9c08a_005_20261007104551_0007_dnld
+
+#EXTINF:-1, ghost
+
+s.site/file/unitypluscloud/movies/(CM)%20Ghost.Rider.Spirit.of.Vengeance.2011.1080p.BluRay.HEVC-Naung.mkv?Authorization=3_20261008082854_8a6e52e2f067574f88d1dbba_c3e206997fa8379a1ad93cb9a4cbdac50aa6167a_005_20261011082854_0007_dnld
+
+#EXTINF:-1, ind
+
+
+https://b2.unityplus.site/file/unitypluscloud/movies/Sardar-2.2026.1080p.DS4K.WEB-DL.Hindi.5.1-Tamil.5.1.ESub.x264-HDHub4u.Ms_new.Homie.mkv?Authorization=3_20261007105229_d994bec9926d0712ced5809e_a51332cca80d6ab69c4d52ee88d114ed091644fa_005_20261010105229_0007_dnld
+
+#EXTINF:-1, ind2
+
+https://b2.unityplus.site/file/unitypluscloud/movies/Varavu.2026.1080p.ZEE5.WEB-DL.(Edit).mkv?Authorization=3_20261008082854_8a6e52e2f067574f88d1dbba_c3e206997fa8379a1ad93cb9a4cbdac50aa6167a_005_20261011082854_0007_dnld
+
+#EXTINF:-1, enter
+
+https://b2.unityplus.site/file/unitypluscloud/movies/%5BMCS%5D%20Enter.The.Dragon.1973.1080p.BluRay.x264.YIFY-muxed.mp4?Authorization=3_20261008082854_8a6e52e2f067574f88d1dbba_c3e206997fa8379a1ad93cb9a4cbdac50aa6167a_005_20261011082854_0007_dnld
+
+#EXTINF:-1, india
+
+https://b2.unityplus.site/file/unitypluscloud/movies/Awarapan-2.2026.1080p.AMZN.WEB-DL(Edit).mkv?Authorization=3_20261008082854_8a6e52e2f067574f88d1dbba_c3e206997fa8379a1ad93cb9a4cbdac50aa6167a_005_20261011082854_0007_dnld
+
+#EXTINF:-1, china
+
+https://b2.unityplus.site/file/unitypluscloud/movies/Seven%20Swords%20(2005)%201080p%20WEB-DL%20AAC2.0.mp4?Authorization=3_20261008082854_8a6e52e2f067574f88d1dbba_c3e206997fa8379a1ad93cb9a4cbdac50aa6167a_005_20261011082854_0007_dnld
+
+#EXTINF:-1, south
+
+
+https://live05.zhwpg.app/live/19919577_tsc.flv
+
+#EXTINF:-1, byan
+
+
+https://live05.meung.app/live/08552895_tsc.flv
+
+#EXTINF:-1, Chelsea vs hull
+
+
+https://pull.qjkngv.com/live/stream-504609_lhd.flv?auth_key=1789217687-0-0-ff27e195eb2eac3132c3feb20636db6e
+
+
+
+#EXTINF:-1, arsenal
+
+
+https://hwyypull.ncctrials.com/live/stream-238362_lhd.flv?auth_key=1788951583-0-0-ac01d37bb75d55fdef2398cae9bb70e1
+
+#EXTINF:-1, psg
+
+https://hwyypull.ncctrials.com/live/stream-646828_lhd.flv?auth_key=1788963043-0-0-6a69eb93791991dce4b58f3d52eef788
+
+#EXTINF:-1, Liverpool vs TiVo
+
+https://hwyypull.ncctrials.com/live/stream-613431_lhd.flv?auth_key=1788955005-0-0-c55f015575b20f7563e5d0fb0313a696
+
+#EXTINF:-1, real madrid
+
+https://hwyypull.ncctrials.com/live/stream-746673_lhd.flv?auth_key=1788889184-0-0-311ffdaee3b7a2fa3fe4f8947e9197cc
+
+#EXTINF:-1, astonvila
+
+
+https://hwyypull.ncctrials.com/live/stream-746673_lhd.flv?auth_key=1788889004-0-0-63a7ca7074f28c62de390f45ed7c5235
+
+#EXTINF:-1, dvb vs villa real
+
+https://hwyypull.ncctrials.com/live/stream-238362_lhd.flv?auth_key=1788889602-0-0-7aff90cce1d0bab286b3fdd91cb5a632
+
+
+#EXTINF:-1, porto vs mancity
+https://hwyypull.ncctrials.com/live/stream-727148_lhd.flv?auth_key=1788888764-0-0-194d667d2bf5bed37dd0eefb7c1bb6b1
+
+
+
+
+
+#EXTINF:-1, salai
+
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/5042/index.m3u8
+
+#EXTINF:-1, mayla
+
+
+https://www.dropbox.com/scl/fi/mrxm2uj3kph0p78zs2n6d/.mp4?rlkey=vdhhnnr29y427mvxk8uf11z0i&st=mzeu5vpn&dl=1
+
+
+
+
+
+#EXTINF:-1, yy
+
+https://www.dropbox.com/scl/fi/8wcrauj4lq1ub8xg58n99/Y-Wine.mp4?rlkey=ojkezr7zayw9xsrvj5698hmjo&st=3yrzu6od&dl=1
+#EXTINF:-1, nan music
+
+https://www.dropbox.com/scl/fi/fg4qb5w1m73tlqnbfbuhb/...-_-OFFICIAL-MV.mp4?rlkey=51oacheiv3oqcw7uud7ve4m65&st=ys2k6an0&dl=1
+
+#EXTINF:-1, soe lin
+
+
+https://www.dropbox.com/scl/fi/9fz18jznag75vxxa4cja7/soe-lin-oo-Vs-worapon-lukjaoporongtom-boxing-one-myanmar-KAREN-PIKE-720p-h264-youtube.mp4?rlkey=gxv6s60xa9pd0mpqebvslrf3y&st=st0xypmq&dl=1
+
+#EXTINF:-1, sky sports
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/19127/index.m3u8
+
+
+#EXTINF:-1, arena 3
+
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/31601/index.m3u8
+
+#EXTINF:-1, action
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/11006/index.m3u8
+
+#EXTINF:-1, skysports
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/9334/index.m3u8
+
+#EXTINF:-1, digi sports
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/2522/index.m3u8
+
+#EXTINF:-1, Santa sports
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/16025/index.m3u8
+
+
+#EXTINF:-1, afc
+
+https://hwyypull.ncctrials.com/live/stream-613431_lhd.flv?auth_key=1788864642-0-0-cc82cbdee3701d986f57e2e761af7370
+
+
+
+#EXTINF:-1, Liverpool vs Fulham
+
+https://hwyypull.ncctrials.com/live/stream-724913_lhd.flv?auth_key=1789123127-0-0-6c26faeb87528a187295c623b89e6a2f
+
+
+
+
+
+
+#EXTINF:-1, euro sport
+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/228/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1, TNT sports
+
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/2506/index.m3u8
+
+
+
+#EXTINF:-1, may la
+
+https://www.dropbox.com/scl/fi/mrxm2uj3kph0p78zs2n6d/.mp4?rlkey=vdhhnnr29y427mvxk8uf11z0i&st=ey7u5rr9&dl=1
+
+
+
+
+
+#EXTINF:-1, ttmt
+
+
+
+https://www.dropbox.com/scl/fi/yvttm78526xhtlxodc4qb/SSYouTube.online_-_720p.mp4?rlkey=b4906panvnb1t1k612c2h9f1p&st=lmbf5pau&dl=1
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, digi sports 2
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/2522/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, digi sports 1
+
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/2523/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1, dazn 1
+
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/2531/index.m3u8
+
+
+
+
+#EXTINF:-1, dazn 2
+
+
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/2532/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, digi sports laliga
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/2538/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, Ng discovery
+
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/2415/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, day 24 6.30 Myanmar vs timor
+
+https://hwyypull.ncctrials.com/live/stream-551893_lhd.flv?auth_key=1790145955-0-0-b4dc060258ec80fac2b8e47408422ba2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, test test
+
+https://www.moviesasone.com/api/stream?v=JBBeBoszilkkZ9h0HIlWynmHzQg-uOGMsjqOI-tJyB39KyPp1SmuTpUsI0gxcjSKYMn3xQ&expires=1790595396&token=HVY8RXWptlDsVeZvOAOvGw
+
+
+
+
+#EXTINF:-1, test 22
+
+
+https://www.moviesasone.com/api/stream?v=ZCJWKsV1Lyh-YN9yEljKgeHuMFZ_dsWhgBqVx__lXQliCxZhHqXtnVLEIwUpFErTriDHTA&expires=1790680277&token=uvqShFYrSh1d22aGt9gcUg
+
+
+#EXTINF:-1, thai
+
+https://www.moviesasone.com/api/stream?v=1IEzorqA-QSCjNhVQjiMRGQxlUr9Lugpg9OMLn_oRKKL3FbsTRRj5GizbUN6Q-7PsSoQCA&expires=1790850391&token=zYjVIg35Dn7m92VoQY2qAQ
+
+
+
+#EXTINF:-1, India
+
+
+https://www.moviesasone.com/api/stream?v=lh1dLhVdywd3wVAuBAgngmt65gT-PiHZs3SjFmCjSrheeFIKhIurfIul_Q5KNTG9AR4gdQ&expires=1790966837&token=IsK3mhJYnG6Ja1u7-anDyw
+
+
+
+
+
+#EXTINF:-1, socolive
+
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=2b846d3f3b4be48033b0f2e2a7f30dfa&txTime=6abbfefc
+
+
+
+#EXTINF:-1, thai vs viet
+
+https://hwyypull.ncctrials.com/live/stream-557437_lhd.flv?auth_key=1790690881-0-0-bf8841ca02ae36b3d0c6fa23082bf85f
+
+
+
+
+
+
+
+
+#EXTINF:-1, thai 1080
+
+
+https://www.moviesasone.com/api/stream?v=xcwzaiemAm5F4LtgJHEha9HhaBkQ-45qUfA9GtEATvf8uTIOkB-bR-w3UC9wmRhYmrH9rw&expires=1790850391&token=K2eiziNkr2elecUHW2HXAg
+
+
+#EXTINF:-1, 777 Charlie
+
+https://www.moviesasone.com/api/stream?v=OA0tWeGDFykw714p8CjH-WUwWZ8PTnxGg5a5ufFukZUEFQEXGUdsGUl_CRIYUabEwSe1&expires=1790853633&token=9CmdXy3pxtP4x-W-n_jtfg
+
+
+
+#EXTINF:-1, bein movie 1
+
+http://31.43.191.125:8080/live/restream/restream/863.ts
+
+
+
+
+
+#EXTINF:-1, Brazil
+
+
+https://hwyypull.ncctrials.com/live/stream-613431_lhd.flv?auth_key=1791039244-0-0-85b3d1159ac61d16ba22e6fb4f949ffc
+
+
+#EXTINF:-1, premeria replay
+
+
+
+
+#EXTINF:-1, jpindo Malay v arg col
+
+
+
+
+
+
+#EXTINF:-1,  JP in do clear
+
+
+
+
+
+
+
+#EXTINF:-1, arg col
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, brazil para
+
+
+
+
+#EXTINF:-1, costirica tri
+
+
+
+
+
+
+#EXTINF:-1, South Korea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, che
+
+
+
+#EXTINF:-1, Japan vs hk
+
+
+https://hwyypull.ncctrials.com/live/stream-491355_lhd.flv?auth_key=1789562389-0-0-c9276dc2396b549cd5db27cd6da3d3c4
+
+
+
+
+
+#EXTINF:-1, Vietnam
+
+https://pull.qjkngv.com/live/stream-566370_lhd.flv?auth_key=1789474253-0-0-a6f6ed768ad7f5e161353b123fbc8b82
+
+
+
+
+#EXTINF:-1, Myanmar vs sky
+
+https://pull.qjkngv.com/live/stream-699438_lhd.flv?auth_key=1789387247-0-0-1f90048fb157a1f72c29dc8b307bdf3f
+
+
+
+#EXTINF:-1, cine action
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/11006/index.m3u8
+
+
+#EXTINF:-1, sky cinema
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/19014/index.m3u8
+
+
+#EXTINF:-1, Spain racing vs
+
+https://hwyypull.ncctrials.com/live/stream-617898_lhd.flv?auth_key=1789219371-0-0-11d6aa2912fe584af7d25fbbea92b417
+
+
+#EXTINF:-1, EFL wb vs
+
+
+https://pull.qjkngv.com/live/stream-337008_lhd.flv?auth_key=1789218885-0-0-20d1e3e8ccbc354903ced06bcf7da5fa
+
+#EXTINF:-1, EFL Bolton vs
+
+
+https://hwyypull.ncctrials.com/live/stream-584152_lhd.flv?auth_key=1789218586-0-0-5d67e84854f1ae612e2d6198858216f6
+
+
+
+
+#EXTINF:-1, EFL DC vs br
+
+https://pull.qjkngv.com/live/stream-598570_lhd.flv?auth_key=1789218346-0-0-8ded0b444f9e8b69e9eaf3ec4c5f9f4b
+
+#EXTINF:-1, manu vs mancity
+
+
+https://hwyypull.ncctrials.com/live/stream-571291_lhd.flv?auth_key=1789217988-0-0-20339d3b4eb55a262a1aba135d0da327
+
+
+#EXTINF:-1, bein movie premeria 2
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/6880/index.m3u8
+
+
+#EXTINF:-1, magic action
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/18066/index.m3u8
+
+
+
+#EXTINF:-1, Ng de
+
+http://pthr8eai.streamoras.top/iptv/Q79FPYNH3RX3GH/7256/index.m3u8
+
+
+
+#EXTINF:-1, test
+
+https://live05.meung.app/live/33982309_tsc.flv
+
+
+#EXTINF:-1, spider man 2
+
+https://b2.unityplus.site/file/unitypluscloud/movies/Spider-Man%202%20(2004)%201080p.mp4?Authorization=3_20261004104551_a84cf7ab38011c3bfcad969a_88b9c8488b68d289415b6b444901c86df8b9c08a_005_20261007104551_0007_dnld
+
+
